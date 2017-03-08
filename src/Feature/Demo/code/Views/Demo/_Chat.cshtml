@@ -1,0 +1,48 @@
+﻿<div class="panel panel-primary">
+  <div class="panel-heading" role="tab">
+    <h3 class="panel-title">
+        <iframe seamless="" width="200" height="500" src='https://webchat.botframework.com/embed/ChatBotEndavaHabitat?s=16nnS2JKv0o.cwA.-Ok.dgDdH6J3LbRVk5Tz70z3lgph3Z6dnNntM4R998oEEv0'></iframe>
+        <a role="button" href="#chatBot" data-toggle="collapse" class="panel-title collapsed" data-parent="#experiencedata">
+            <span class="fa fa-comment"></span>
+            Chat
+        </a>
+
+
+
+            @*<a role="button" href="#visitsPanel" data-toggle="collapse" class="panel-title collapsed" data-parent="#experiencedata">
+                <span class="fa fa-heart"></span>
+                @Html.Sitecore().DictionaryField("/Demo/Visits/Engagement", "Engagement")
+                <span class="badge" title="@Html.Sitecore().Dictionary("/Demo/Visits/Engagement Value", "Engagement Value")" data-toggle="tooltip" data-placement="bottom">
+                    <span class="fa fa-heart"></span>
+                    @Model.EngagementValue
+                </span>
+                <span class="badge" title="@Html.Sitecore().Dictionary("/Demo/Visits/Pages Viewed", "Pages Viewed")" data-toggle="tooltip" data-placement="bottom">
+                    <span class="fa fa-eye"></span>
+                    @Model.TotalPageViews
+                </span>
+                <span class="badge" title="@Html.Sitecore().Dictionary("/Demo/Visits/Number Of Visits", "Number of Visits")" data-toggle="tooltip" data-placement="bottom">
+                    <span class="fa fa-history"></span>
+                    @Model.TotalVisits
+                </span>
+                <span class="glyphicon glyphicon-chevron-down pull-right"></span>
+            </a>*@
+</h3>
+  </div>
+
+    <div id="chatBot" class="panel-collapse collapse" role="tabpanel">
+        <div class="panel-body">
+            <div class="media">
+                <div class="media-left">
+                    <span class="fa fa-heart"></span>
+                </div>
+
+                <div class="media-body ">
+                    <h4 class="media-title">
+                        <iframe seamless="" width="300" height="500" src='https://webchat.botframework.com/embed/ChatBotEndavaHabitat?s=16nnS2JKv0o.cwA.-Ok.dgDdH6J3LbRVk5Tz70z3lgph3Z6dnNntM4R998oEEv0'></iframe>
+                    </h4>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+  </div>
