@@ -1,0 +1,7 @@
+MyCalendarIsIntent  my name is {john|Name}
+MyCalendarIsIntent  my name is {sam brown|Name}
+WhatsMyEventIntent whats my name
+WhatsMyEventIntent what is my name
+WhatsMyEventIntent say my name
+WhatsMyEventIntent tell me my name
+WhatsMyEventIntent tell me what my name is

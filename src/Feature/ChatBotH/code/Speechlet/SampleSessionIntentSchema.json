@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "MyCalendarIsIntent",
+      "slots": [
+        {
+          "calendar": "Calendar",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "WhatsMyEventIntent",
+      "slots": []
+    }
+  ]
+}
