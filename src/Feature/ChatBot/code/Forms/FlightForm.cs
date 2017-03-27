@@ -1,4 +1,4 @@
-﻿namespace Sitecore.Feature.ChatBotHabitat.Forms
+﻿namespace Sitecore.Feature.ChatBot.Forms
 {
 using Microsoft.Bot.Builder.FormFlow;
 using System;

@@ -1,4 +1,4 @@
-﻿namespace Sitecore.Feature.ChatBotHabitat.Pipelines
+﻿namespace Sitecore.Feature.ChatBot.Pipelines
 {
     //using System.Web.Mvc;
     using System.Web.Routing;

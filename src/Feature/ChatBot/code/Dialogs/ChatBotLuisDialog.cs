@@ -1,4 +1,4 @@
-﻿namespace Sitecore.Feature.ChatBotHabitat.Dialogs
+﻿namespace Sitecore.Feature.ChatBot.Dialogs
 {
 using Microsoft.Bot.Builder.Dialogs;
 using System;
@@ -13,13 +13,13 @@ using Microsoft.Bot.Connector;
 using Microsoft.Bot.Builder.FormFlow;
 using System.Text;
 using System.Configuration;
-using Sitecore.Feature.ChatBotHabitat.Entities;
-using Sitecore.Feature.ChatBotHabitat.Utils;
+using Sitecore.Feature.ChatBot.Entities;
+using Sitecore.Feature.ChatBot.Utils;
 using Google.Apis.QPXExpress.v1;
 using Google.Apis.Services;
 using Google.Apis.QPXExpress.v1.Data;
-using Sitecore.Feature.ChatBotHabitat.Dialogs;
-using Sitecore.Feature.ChatBotHabitat.Forms;
+using Sitecore.Feature.ChatBot.Dialogs;
+using Sitecore.Feature.ChatBot.Forms;
 
 
     [LuisModel("7b9addce-10fa-4fe3-aa89-91eeab1d33b2", "5cb7b7eec1c54d51a79cf9bb13ce1d36")]

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Sitecore.Feature.ChatBotHabitat")]
+[assembly: AssemblyTitle("Sitecore.Feature.ChatBot")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Sitecore.Feature.ChatBotHabitat")]
+[assembly: AssemblyProduct("Sitecore.Feature.ChatBot")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a17fe2b4-ef7b-47f3-8e93-ecf9a1d6abda")]
+[assembly: Guid("672161f4-d483-4e7d-a3dc-91087b1c5ae0")]
 
 // Version information for an assembly consists of the following four values:
 //

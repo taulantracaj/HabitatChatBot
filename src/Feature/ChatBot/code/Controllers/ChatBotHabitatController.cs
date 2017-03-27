@@ -1,4 +1,4 @@
-﻿namespace Sitecore.Feature.ChatBotHabitat.Controllers
+﻿namespace Sitecore.Feature.ChatBot.Controllers
 {
 using System;
 using System.Collections.Generic;
@@ -8,8 +8,8 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Web.Http;
 using System.Web.Http.Description;
-using Sitecore.Feature.ChatBotHabitat.Dialogs;
-using Sitecore.Feature.ChatBotHabitat.Utils;
+using Sitecore.Feature.ChatBot.Dialogs;
+using Sitecore.Feature.ChatBot.Utils;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
 using Newtonsoft.Json;

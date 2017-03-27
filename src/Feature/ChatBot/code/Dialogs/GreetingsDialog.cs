@@ -1,4 +1,4 @@
-﻿namespace Sitecore.Feature.ChatBotHabitat.Dialogs
+﻿namespace Sitecore.Feature.ChatBot.Dialogs
 {
 using BestMatchDialog;
 using Microsoft.Bot.Builder.Dialogs;

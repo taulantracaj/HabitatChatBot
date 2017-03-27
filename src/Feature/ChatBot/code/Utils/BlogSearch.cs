@@ -1,8 +1,8 @@
-﻿namespace Sitecore.Feature.ChatBotHabitat.Utils
+﻿namespace Sitecore.Feature.ChatBot.Utils
 {
 
 //using HtmlAgilityPack;
-using Sitecore.Feature.ChatBotHabitat.Entities;
+using Sitecore.Feature.ChatBot.Entities;
 using Microsoft.Bot.Builder.FormFlow.Advanced;
 using System;
 using System.Collections.Generic;

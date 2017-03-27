@@ -1,4 +1,4 @@
-﻿namespace Sitecore.Feature.ChatBotHabitat.Utils
+﻿namespace Sitecore.Feature.ChatBot.Utils
 {
     using System;
 using System.Collections.Generic;
